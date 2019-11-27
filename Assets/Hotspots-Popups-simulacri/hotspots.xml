@@ -1,0 +1,34 @@
+<HOTSPOTDATA>
+	<SETUP 
+		CHOICELIST="2" 
+		LISTSOURCE="NAME"
+		LISTTITLE="Hotspots"
+		INITIALVISIBILITY="1" 
+		MINSCALE="0.25"
+		MAXSCALE="2" >
+	</SETUP>
+	
+	
+	<HOTSPOT 
+		ID="1"
+		NAME="Popup Position Offset"
+		MEDIATYPE="icon"
+		MEDIA="Assets/Hotspots-Popups-simulacri/hotspot-simulacri.png"
+		X="1000"
+		Y="900"
+		ZOOM="10" 
+		XSCALE="100"
+		YSCALE="100"
+		CLICKURL=""
+		URLTARGET="_blank"
+		ROLLOVER="0"
+		CAPTION=""
+		TOOLTIP=""
+		POPUP="Assets/Hotspots-Popups-simulacri/popup-simulacri.png"
+		POPOFFSETX="35"
+		POPOFFSETY="200" >
+	</HOTSPOT>
+	
+	
+</HOTSPOTDATA>
+

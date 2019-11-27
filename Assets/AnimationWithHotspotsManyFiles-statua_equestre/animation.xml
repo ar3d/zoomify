@@ -1,0 +1,34 @@
+<ANIMATIONDATA>
+	<SETUP
+		CHOICELIST="2"
+		LISTSOURCE="NAME"
+		LISTTITLE="Animation Image List"
+		START="1"
+		LOOP="1"
+		SLIDER="1"
+		ANIMATOR="motion"
+		FLIP="0" >
+	</SETUP>
+	<IMAGE
+		MEDIA="Images/statua_equestre/statua_lato_1"
+		NAME="Vista 1"
+		HOTSPOTPATH="Assets\AnimationWithHotspotsManyFiles-statua_equestre\Hotspots\hotspots-1.xml" >
+	</IMAGE>
+	<IMAGE
+		MEDIA="Images/statua_equestre/statua_lato_2"
+		NAME="Vista 2"
+		HOTSPOTPATH="Assets\AnimationWithHotspotsManyFiles-statua_equestre\Hotspots\hotspots-2.xml" >
+	</IMAGE>
+	<IMAGE
+		MEDIA="Images/statua_equestre/statua_lato_3"
+		NAME="Vista 3"
+		HOTSPOTPATH="Assets\AnimationWithHotspotsManyFiles-statua_equestre\Hotspots\hotspots-3.xml" >
+	</IMAGE>
+	<IMAGE
+		MEDIA="Images/statua_equestre/statua_lato_4"
+		NAME="Vista 4"
+		HOTSPOTPATH="Assets\AnimationWithHotspotsManyFiles-statua_equestre\Hotspots\hotspots-4.xml" >
+	</IMAGE>
+	
+</ANIMATIONDATA>
+
