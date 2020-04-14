@@ -25,8 +25,8 @@
 		CAPTION=""
 		TOOLTIP=""
 		POPUP="Assets/Hotspots-Popup-mattino/popup-mattino.png"
-		POPOFFSETX="350"
-		POPOFFSETY="550" >
+		POPOFFSETX="50"
+		POPOFFSETY="50" >
 	</HOTSPOT>
 	
 	
