@@ -14,9 +14,9 @@
 		NAME="Popup Position Offset"
 		MEDIATYPE="icon"
 		MEDIA="Assets/Hotspots-Popup-mattino/hotspot-mattino.png"
-		X="100"
-		Y="200"
-		ZOOM="1" 
+		X="300"
+		Y="500"
+		ZOOM="0.5" 
 		XSCALE="100"
 		YSCALE="100"
 		CLICKURL=""
@@ -25,8 +25,8 @@
 		CAPTION=""
 		TOOLTIP=""
 		POPUP="Assets/Hotspots-Popup-mattino/popup-mattino.png"
-		POPOFFSETX="65"
-		POPOFFSETY="10" >
+		POPOFFSETX="350"
+		POPOFFSETY="550" >
 	</HOTSPOT>
 	
 	
