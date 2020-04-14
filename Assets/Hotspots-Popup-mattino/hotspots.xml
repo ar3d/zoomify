@@ -16,7 +16,7 @@
 		MEDIA="Assets/Hotspots-Popup-mattino/hotspot-mattino.png"
 		X="125"
 		Y="45"
-		ZOOM="10" 
+		ZOOM="1" 
 		XSCALE="100"
 		YSCALE="100"
 		CLICKURL=""
