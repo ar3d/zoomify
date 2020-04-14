@@ -17,8 +17,8 @@
 		X="100"
 		Y="200"
 		ZOOM="1" 
-		XSCALE="50"
-		YSCALE="50"
+		XSCALE="10"
+		YSCALE="10"
 		CLICKURL=""
 		URLTARGET="_blank"
 		ROLLOVER="0"
@@ -26,7 +26,7 @@
 		TOOLTIP=""
 		POPUP="Assets/Hotspots-Popup-mattino/popup-mattino.png"
 		POPOFFSETX="65"
-		POPOFFSETY="200" >
+		POPOFFSETY="10" >
 	</HOTSPOT>
 	
 	
