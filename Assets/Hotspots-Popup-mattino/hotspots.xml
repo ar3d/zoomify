@@ -24,7 +24,7 @@
 		ROLLOVER="0"
 		CAPTION=""
 		TOOLTIP=""
-		POPUP=""
+		POPUP="Assets/Hotspots-Popups-mattino/popup-mattino.png"
 		POPOFFSETX="65"
 		POPOFFSETY="200" >
 	</HOTSPOT>
